@@ -4,7 +4,7 @@ Ekip sunucularında kullandığım v13 botu,
 
 # Setup Kurulum 
 
-![image](https://user-images.githubusercontent.com/89699487/169306437-f2e4c3ac-fe40-4a13-9800-5ff9dc0fb5e3.png)\a
+![image](https://user-images.githubusercontent.com/89699487/169306437-f2e4c3ac-fe40-4a13-9800-5ff9dc0fb5e3.png)
 ![image](https://user-images.githubusercontent.com/89699487/169305747-35a0eafe-495e-4cb1-9d1d-2a1a7264a3f8.png)
 ![image](https://user-images.githubusercontent.com/89699487/169305803-c28e81ec-100c-4841-8408-b8a690310443.png)
 ![image](https://user-images.githubusercontent.com/89699487/169305824-35fe3930-5f89-4cbb-aea5-d3bb47aa3da1.png)
