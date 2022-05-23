@@ -29,3 +29,5 @@ Fikirleri için Arise tesekkürler...
 # Geliştirilen Resimler 
  
 Gelistirdikce resimleri buraya atarım
+![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
+
