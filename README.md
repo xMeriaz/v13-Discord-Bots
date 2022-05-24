@@ -4,6 +4,11 @@ Ekip sunucularında kullandığım v13 botu,
 
 Fikirleri için Arise tesekkürler...
 
+# Geliştirilen Resimler 
+ 
+Gelistirdikce resimleri buraya atarım
+![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
+
 # Setup Kurulum 
 
 ![image](https://user-images.githubusercontent.com/89699487/169306437-f2e4c3ac-fe40-4a13-9800-5ff9dc0fb5e3.png)
@@ -24,10 +29,3 @@ Fikirleri için Arise tesekkürler...
 ![image](https://user-images.githubusercontent.com/89699487/169306571-55b075f9-b47f-4d1b-bf1c-96f380957cf5.png)
 ![image](https://user-images.githubusercontent.com/89699487/169306597-d8aabb14-4fb9-4a5e-a729-335dbf6625a9.png)
 ![image](https://user-images.githubusercontent.com/89699487/169306917-8ff2442a-b4a2-418e-841c-aefc0aed7138.png)
-
-
-# Geliştirilen Resimler 
- 
-Gelistirdikce resimleri buraya atarım
-![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
-
