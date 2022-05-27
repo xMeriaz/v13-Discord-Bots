@@ -7,6 +7,9 @@ Fikirleri için Arise tesekkürler...
 # Geliştirilen Resimler 
  
 Gelistirdikce resimleri buraya atarım
+![image](https://user-images.githubusercontent.com/89699487/170754354-96f29f1e-a484-4c52-a1f2-02f02ecb7061.png)
+![image](https://user-images.githubusercontent.com/89699487/170754481-bbe803d4-56dd-4453-bcdf-2ab9bfebb708.png)
+![image](https://user-images.githubusercontent.com/89699487/170754795-21c026b5-0b91-4b47-b018-829a0565a0da.png)
 ![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
 
 # Setup Kurulum 
