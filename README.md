@@ -4,7 +4,7 @@ Ekip sunucularında kullandığım v13 botu,
 
 Fikirleri için Arise tesekkürler...
 
-# Geliştircekte Atıyom ;
+# Geliştirdikce Atıyom Bak Arada;
 
 ![image](https://user-images.githubusercontent.com/89699487/171010067-e9cef29c-53fc-4a82-9bda-382cd0239648.png)
 ![image](https://user-images.githubusercontent.com/89699487/170754354-96f29f1e-a484-4c52-a1f2-02f02ecb7061.png)
