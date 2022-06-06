@@ -1,11 +1,12 @@
 # v13-Discord-Ekip-Bots
 Ekip sunucularında kullandığım v13 botu,
-70 stara ulaşana kadar botu geliştireceğim nezmn istediğim star seviyesine ulaşırsa ozmn repo burda olur. İletisim İcin Meriaz#3488 `(852814638889828372)`
+70 stara ulaşana kadar botu geliştireceğim nezmn istediğim star seviyesine ulaşırsa ozmn repo burda olur. İletisim İcin Meriaz#4334 `(852814638889828372)`
 
 Fikirleri için Arise tesekkürler...
 
 # Geliştirdikce Atıyom Bak Arada;
 
+![image](https://user-images.githubusercontent.com/89699487/172227747-6e9ae01a-9641-4824-b244-5175a3c6a062.png)
 ![image](https://user-images.githubusercontent.com/89699487/171038519-baec0539-eb24-4bbf-917b-07b0b6580795.png)
 ![image](https://user-images.githubusercontent.com/89699487/171010067-e9cef29c-53fc-4a82-9bda-382cd0239648.png)
 ![image](https://user-images.githubusercontent.com/89699487/170754354-96f29f1e-a484-4c52-a1f2-02f02ecb7061.png)
