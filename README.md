@@ -6,6 +6,7 @@ Fikirleri için Arise tesekkürler...
 
 # Geliştirdikce Atıyom Bak Arada;
 
+![image](https://user-images.githubusercontent.com/89699487/172461300-f91f5646-c5b2-4ba3-b3d3-7e4d014d8f7d.png)
 ![image](https://user-images.githubusercontent.com/89699487/172227747-6e9ae01a-9641-4824-b244-5175a3c6a062.png)
 ![image](https://user-images.githubusercontent.com/89699487/171038519-baec0539-eb24-4bbf-917b-07b0b6580795.png)
 ![image](https://user-images.githubusercontent.com/89699487/171010067-e9cef29c-53fc-4a82-9bda-382cd0239648.png)
