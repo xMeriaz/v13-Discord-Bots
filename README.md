@@ -16,8 +16,9 @@ Fikirleri için Arise tesekkürler...
 ![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
 
 # Sunucu-Setup Komutu 
+• Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. Ekip ve public için istediğin kadar tag kullanabilirsin.
+![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) ![image](https://user-images.githubusercontent.com/89699487/172848964-9ddcc8d3-708d-48df-98d0-e1f4c932dd86.png)
 
-• Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. ![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) 
 
 # Botla Alakalı Birkac Resim :)
 
