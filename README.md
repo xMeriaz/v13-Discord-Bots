@@ -6,6 +6,7 @@ Fikirleri için Arise tesekkürler...
 
 # Sunucu-Setup Komutu 
 • Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. Ekip ve public için istediğin kadar tag kullanabilirsin.
+
 ![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) ![image](https://user-images.githubusercontent.com/89699487/172855390-fd17b0ca-d2e6-4820-96a7-19076f002439.png)
 
 
