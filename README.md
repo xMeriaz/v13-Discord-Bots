@@ -17,13 +17,7 @@ Fikirleri için Arise tesekkürler...
 
 # Setup Kurulum 
 
-![image](https://user-images.githubusercontent.com/89699487/169306437-f2e4c3ac-fe40-4a13-9800-5ff9dc0fb5e3.png)
-![image](https://user-images.githubusercontent.com/89699487/169305747-35a0eafe-495e-4cb1-9d1d-2a1a7264a3f8.png)
-![image](https://user-images.githubusercontent.com/89699487/169305803-c28e81ec-100c-4841-8408-b8a690310443.png)
-![image](https://user-images.githubusercontent.com/89699487/169305824-35fe3930-5f89-4cbb-aea5-d3bb47aa3da1.png)
-![image](https://user-images.githubusercontent.com/89699487/169305850-8b4ce376-ef4e-4873-83e1-513b38704766.png)
-![image](https://user-images.githubusercontent.com/89699487/169307405-169962d6-2cd5-4ae0-9ebd-db8905ecf420.png)
-![image](https://user-images.githubusercontent.com/89699487/169307427-f5bdc3f8-d57e-4c8b-94c5-3c44aaaa1a68.png)
+![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) • Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz.
 
 # Botla Alakalı Birkac Resim :)
 
