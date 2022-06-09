@@ -4,17 +4,6 @@ Ekip sunucularında kullandığım v13 botu,
 
 Fikirleri için Arise tesekkürler...
 
-# Geliştirdikce Atıyom Bak Arada;
-
-![image](https://user-images.githubusercontent.com/89699487/172461300-f91f5646-c5b2-4ba3-b3d3-7e4d014d8f7d.png)
-![image](https://user-images.githubusercontent.com/89699487/172227747-6e9ae01a-9641-4824-b244-5175a3c6a062.png)
-![image](https://user-images.githubusercontent.com/89699487/171038519-baec0539-eb24-4bbf-917b-07b0b6580795.png)
-![image](https://user-images.githubusercontent.com/89699487/171010067-e9cef29c-53fc-4a82-9bda-382cd0239648.png)
-![image](https://user-images.githubusercontent.com/89699487/170754354-96f29f1e-a484-4c52-a1f2-02f02ecb7061.png)
-![image](https://user-images.githubusercontent.com/89699487/170754481-bbe803d4-56dd-4453-bcdf-2ab9bfebb708.png)
-![image](https://user-images.githubusercontent.com/89699487/170754795-21c026b5-0b91-4b47-b018-829a0565a0da.png)
-![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
-
 # Sunucu-Setup Komutu 
 • Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. Ekip ve public için istediğin kadar tag kullanabilirsin.
 ![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) ![image](https://user-images.githubusercontent.com/89699487/172849342-10530236-f7f6-49b6-b2d1-0509e3cc90bf.png)
@@ -23,11 +12,13 @@ Fikirleri için Arise tesekkürler...
 
 # Botla Alakalı Birkac Resim :)
 
-![image](https://user-images.githubusercontent.com/89699487/169306336-38c3ed47-6008-44e3-b460-d669a22ae24f.png)
-![image](https://user-images.githubusercontent.com/89699487/169306390-bebf3f95-197c-430d-8b82-6d353c01b6c8.png)
-![image](https://user-images.githubusercontent.com/89699487/169306480-bae06465-5222-45e0-a0b4-7b6366d2af24.png)
+![image](https://user-images.githubusercontent.com/89699487/172850103-9bc920f6-4226-41ca-967e-eb48cb186b90.png)
+![image](https://user-images.githubusercontent.com/89699487/172850279-aa08b6f6-a3aa-40ba-8528-0b7c753fb616.png)
+![image](https://user-images.githubusercontent.com/89699487/172850181-707f3c9b-4ca4-407e-845f-fb16d0544aa7.png)
+![image](https://user-images.githubusercontent.com/89699487/172850214-b79486b5-ca2e-473d-8b2d-c30a60640532.png)
+![image](https://user-images.githubusercontent.com/89699487/172850314-53c8b6f7-273b-4deb-89cf-a3f08f2fc421.png)
+![image](https://user-images.githubusercontent.com/89699487/172850415-e3dcd356-07c0-4d9d-9176-164c52ccb5db.png)
+![image](https://user-images.githubusercontent.com/89699487/172850573-046bfac0-9d99-4ac9-a142-bf7ee600cb99.png)
 ![image](https://user-images.githubusercontent.com/89699487/169306512-95610e87-b026-48f2-bb24-728a0c7d10be.png)
-![image](https://user-images.githubusercontent.com/89699487/169306531-06f08818-675e-4854-8870-faded698f713.png)
-![image](https://user-images.githubusercontent.com/89699487/169306571-55b075f9-b47f-4d1b-bf1c-96f380957cf5.png)
-![image](https://user-images.githubusercontent.com/89699487/169306597-d8aabb14-4fb9-4a5e-a729-335dbf6625a9.png)
-![image](https://user-images.githubusercontent.com/89699487/169306917-8ff2442a-b4a2-418e-841c-aefc0aed7138.png)
+![image](https://user-images.githubusercontent.com/89699487/172851093-ea3d159b-4e83-416f-9a76-4c90a4b97648.png)
+![image](https://user-images.githubusercontent.com/89699487/172851697-6470325e-646f-4629-849a-d70da8562d68.png)
