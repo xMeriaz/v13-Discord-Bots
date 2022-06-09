@@ -15,9 +15,9 @@ Fikirleri için Arise tesekkürler...
 ![image](https://user-images.githubusercontent.com/89699487/170754795-21c026b5-0b91-4b47-b018-829a0565a0da.png)
 ![image](https://user-images.githubusercontent.com/89699487/169900285-0ecd62fc-bf72-438a-8623-b4e12a60c196.png)
 
-# Setup Kurulum 
+# Sunucu-Setup Komutu 
 
-![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) • Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz.
+• Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. ![image](https://user-images.githubusercontent.com/89699487/172847776-168e7324-4cee-4e35-b733-a9a062a53b8e.png) 
 
 # Botla Alakalı Birkac Resim :)
 
