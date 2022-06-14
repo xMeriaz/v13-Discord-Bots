@@ -24,3 +24,5 @@ Fikirleri için Arise tesekkürler...
 ![image](https://user-images.githubusercontent.com/89699487/169306512-95610e87-b026-48f2-bb24-728a0c7d10be.png)
 ![image](https://user-images.githubusercontent.com/89699487/172851093-ea3d159b-4e83-416f-9a76-4c90a4b97648.png)
 ![image](https://user-images.githubusercontent.com/89699487/172854683-fde61bf0-97d3-4ae2-9c99-cba4dec8745f.png)
+![image](https://user-images.githubusercontent.com/89699487/173549125-8ac3573c-6ce4-45b9-aeab-7e078fb467e0.png)
+![image](https://user-images.githubusercontent.com/89699487/173549152-d66ef0ab-78fb-434d-af34-5f150b2ecd32.png)
