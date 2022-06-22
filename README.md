@@ -14,8 +14,8 @@ Fikirleri için Arise tesekkürler...
 
 # Botla Alakalı Birkac Resim :)
 
-![image](https://user-images.githubusercontent.com/89699487/174474329-04d8ddf9-94f1-4678-b500-4907f1232007.png)
-![image](https://user-images.githubusercontent.com/89699487/172850279-aa08b6f6-a3aa-40ba-8528-0b7c753fb616.png)
+![image](https://user-images.githubusercontent.com/89699487/175133026-74f13ecf-4141-424c-8bc1-5b390364c89f.png)
+![image](https://user-images.githubusercontent.com/89699487/175133049-961210dd-15be-40b3-9f04-ffbb11992d78.png)
 ![image](https://user-images.githubusercontent.com/89699487/172850181-707f3c9b-4ca4-407e-845f-fb16d0544aa7.png)
 ![image](https://user-images.githubusercontent.com/89699487/174436973-918209b6-3bcf-4cbf-9783-77ec4f3c0cd5.png)
 ![image](https://user-images.githubusercontent.com/89699487/172850573-046bfac0-9d99-4ac9-a142-bf7ee600cb99.png)
