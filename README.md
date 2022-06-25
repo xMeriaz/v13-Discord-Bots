@@ -1,6 +1,6 @@
 # V13 MERİAZ BOTS
 Botu hem ekip hem public sunucularında kullanabilirsiniz,
-70 stara ulaşana kadar botu geliştireceğim nezmn istediğim star seviyesine ulaşırsa ozmn repo burda olur. İletisim İcin Meriaz#4334 `(852814638889828372)`
+100 stara ulaşana kadar botu geliştireceğim nezmn istediğim star seviyesine ulaşırsa ozmn repo burda olur. İletisim İcin Meriaz#4334 `(852814638889828372)`
 
 Fikirleri için Arise tesekkürler...
 
