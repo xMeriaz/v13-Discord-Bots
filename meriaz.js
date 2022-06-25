@@ -1,1 +1,1 @@
-#70 starda repo burda kardesim :)
+#100 starda repo burda kardesim :)
