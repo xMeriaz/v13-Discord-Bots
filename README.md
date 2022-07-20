@@ -1,8 +1,7 @@
 # V13 MERİAZ BOTS
 Botu hem ekip hem public sunucularında kullanabilirsiniz,
-Star atmıyana bot yok :) en kısa sürede burda olur bot. İletisim İcin Meriaz#4334 `(852814638889828372)`
+İletisim İcin Meriaz#4334 `(852814638889828372)`
 
-Fikirleri için Arise tesekkürler...
 
 # Sunucu-Setup Komutu 
 • Yazılmayan, değiştirmek istediğiniz kısımları .config komutu ile düzenleyebilirsiniz. Ekip ve public için istediğin kadar tag kullanabilirsin.
