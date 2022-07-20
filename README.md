@@ -1,5 +1,6 @@
 # V13 MERİAZ BOTS
 Botu hem ekip hem public sunucularında kullanabilirsiniz,
++100 Star'da bot burda olucaktır.
 İletisim İcin Meriaz#4334 `(852814638889828372)`
 
 
