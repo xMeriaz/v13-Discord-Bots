@@ -1,1 +1,1 @@
-#100 starda repo burda kardesim :)
+#Starını at bot en kısa sürede burda olsun :)
