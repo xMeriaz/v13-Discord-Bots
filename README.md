@@ -14,6 +14,7 @@ Botu hem ekip hem public sunucularında kullanabilirsiniz,
 
 # Botla Alakalı Birkac Resim :)
 
+![Ekran Görüntüsü (534) (1)](https://user-images.githubusercontent.com/89699487/207027254-5d19a65a-d452-4ff6-b6ed-29981b884f1d.jpg)
 ![image](https://user-images.githubusercontent.com/89699487/175133026-74f13ecf-4141-424c-8bc1-5b390364c89f.png)
 ![image](https://user-images.githubusercontent.com/89699487/175133049-961210dd-15be-40b3-9f04-ffbb11992d78.png)
 ![image](https://user-images.githubusercontent.com/89699487/172850181-707f3c9b-4ca4-407e-845f-fb16d0544aa7.png)
